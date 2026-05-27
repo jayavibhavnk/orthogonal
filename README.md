@@ -2,6 +2,8 @@
 
 A multi-agent AI chat application that calls **Orthogonal's unified API** to return real company, funding, contact, and web data. Built for the Orthogonal engineering take-home.
 
+**Live URL:** [https://orthogonal-chat-rouge.vercel.app](https://orthogonal-chat-rouge.vercel.app)
+
 **Stack:** Next.js 16 · Vercel Workflow DevKit · AI SDK v6 · Together AI · Neon Postgres · Upstash Redis
 
 ---
